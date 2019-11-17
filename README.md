@@ -1,18 +1,18 @@
 ### Date created
-The Date 17-11-2019
+The Date __17-11-2019__
 
 ### Project Title
-Explore US bikeshare Data
+Explore __US bikeshare__ Data
 
 ### Description
-This a python script project is about exploring data related to bike share systems
-for three major cities in the United States(Chicago, New York City, and Washington).
+This a __python__ script project is about exploring data related to bike share systems
+for three major cities in the __United States__ (Chicago, New York City, and Washington).
 The scripts will import the data and answer interesting questions about it by computing descriptive statistics.
 ### Files used
-washington.csv
-new_york_city.csv
-chicago.csv
-bikeshare.py
+- washington.csv
+- chicago.csv
+- new_york_city.csv
+- bikeshare.py
 ### Credits
-https://stackoverflow.com/questions/10744305/how-to-create-a-gitignore-file
-https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit
+- [link to stackoverflow ](https://stackoverflow.com/questions/10744305/how-to-create-a-gitignore-file)
+- [link to stackoverflow](https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit)
