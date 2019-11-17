@@ -17,7 +17,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-    print("Which city you want to see data for Chicago, Washington or New York")
+    print("Which city you want to see data for Chicago, Washington or New York ?")
 
     city = input()
     entered_city = city.lower()
@@ -156,14 +156,14 @@ def user_stats(df,city):
     if 'User Type' in df.columns:
         print(df['User Type'].value_counts())
     else:
-        print("Sorry..! for %s User Type data is not available " % (city))
+        print("Oops...! for %s User Type data is not available " % (city))
 
     # TO DO: Display counts of gender
 
     if 'Gender' in df.columns:
         print(df['Gender'].value_counts())
     else:
-        print("Sorry..! for %s Gender data is not available " % (city))
+        print("Oops...! for %s Gender data is not available " % (city))
 
     # TO DO: Display earliest, most recent, and most common year of birth
 
@@ -181,7 +181,7 @@ def user_stats(df,city):
     print('-'*40)
 
 def display_data(df):
-        print("Would you like see five rows of data ?? Enter yes or no ")
+        print("Would you like see five rows of data? Type Yes or No ")
         set_data = input()
         set_data = set_data.lower()
 
