@@ -181,7 +181,7 @@ def user_stats(df,city):
     print('-'*40)
 
 def display_data(df):
-        print("Would you like see five rows of data ?? Enter yes or no ")
+        print("Would you like see five rows of data? Type Yes or No ")
         set_data = input()
         set_data = set_data.lower()
 
