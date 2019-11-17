@@ -156,14 +156,14 @@ def user_stats(df,city):
     if 'User Type' in df.columns:
         print(df['User Type'].value_counts())
     else:
-        print("Sorry..! for %s User Type data is not available " % (city))
+        print("Oops...! for %s User Type data is not available " % (city))
 
     # TO DO: Display counts of gender
 
     if 'Gender' in df.columns:
         print(df['Gender'].value_counts())
     else:
-        print("Sorry..! for %s Gender data is not available " % (city))
+        print("Oops...! for %s Gender data is not available " % (city))
 
     # TO DO: Display earliest, most recent, and most common year of birth
 
