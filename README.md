@@ -14,4 +14,5 @@ new_york_city.csv
 chicago.csv
 bikeshare.py
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/questions/10744305/how-to-create-a-gitignore-file
+https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit
