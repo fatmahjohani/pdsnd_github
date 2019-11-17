@@ -2,11 +2,12 @@
 The Date 17-11-2019
 
 ### Project Title
-Explore US bikeshare Data 
+Explore US bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
-
+This a python script project is about exploring data related to bike share systems
+for three major cities in the United States(Chicago, New York City, and Washington).
+The scripts will import the data and answer interesting questions about it by computing descriptive statistics.
 ### Files used
 Include the files used
 
